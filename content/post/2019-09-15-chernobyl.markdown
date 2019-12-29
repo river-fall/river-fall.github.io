@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Чернобыль 2019"
-date:   2019-09-15 10:23:06 +0000
 categories: trips
+date: "2019-09-15T10:23:06Z"
+title: Чернобыль 2019
 ---
 
 ![1](/assets/images/chernobyl/1.jpg){:width="100%"}
